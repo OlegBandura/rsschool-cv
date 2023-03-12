@@ -1,7 +1,7 @@
 Oleg Bandura
 email: bomber.qw@gmail.com
 
-English: Intermediate
+English: Intermediate (B1)
 
 Work Experience
   4 years of experience in Back-end development, working with Ruby on Rails.
